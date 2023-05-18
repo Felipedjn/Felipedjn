@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou o Felipe</h1>
-<h3 align="center">Apaixonado por design, ciência e a análise de dados</h3>
+<h1 align="center">Olá, Eu sou o Felipe</h1>
+<h3 align="center">Apaixonado por design, programação e análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Power BI**
 

@@ -29,6 +29,7 @@
   <h1 align="center">Hard Skills</h1>
 </div>
 <div align="center">
+  <!-- PowerBI --> <img src="https://img.shields.io/badge/PowerBI-FFD43B?style=for-the-badge&logo=powerbi&logoColor=black">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <!-- Java --> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <!-- Anaconda --> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">

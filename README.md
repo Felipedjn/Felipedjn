@@ -18,10 +18,8 @@
   <a href="https://www.linkedin.com/in/luiz-felipe-de-souza-1bb407233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:lfsouza1410@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- Social Links -->
-  <a href="https://instagram.com/felipedjn_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/felipedjn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://behance.net/felipedjn"  target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- OTH Links -->
-  <a href="https://steamcommunity.com/id/f" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
 
